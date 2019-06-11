@@ -1,0 +1,7 @@
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\bin\Debug\MultipleContractService.dll.config
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\bin\Debug\MultipleContractService.dll
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\bin\Debug\MultipleContractService.pdb
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\obj\Debug\MultipleContractService.csprojAssemblyReference.cache
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\obj\Debug\MultipleContractService.csproj.CoreCompileInputs.cache
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\obj\Debug\MultipleContractService.dll
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractService\obj\Debug\MultipleContractService.pdb

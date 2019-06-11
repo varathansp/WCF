@@ -1,0 +1,10 @@
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\bin\Debug\WindowsFormsClientTCP.exe.config
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\bin\Debug\WindowsFormsClientTCP.exe
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\bin\Debug\WindowsFormsClientTCP.pdb
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.csprojAssemblyReference.cache
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.Form1.resources
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.Properties.Resources.resources
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.csproj.GenerateResource.cache
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.csproj.CoreCompileInputs.cache
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.exe
+c:\users\vsuyambu\source\repos\ClientsOfHelloService\WindowsFormsClientTCP\obj\Debug\WindowsFormsClientTCP.pdb

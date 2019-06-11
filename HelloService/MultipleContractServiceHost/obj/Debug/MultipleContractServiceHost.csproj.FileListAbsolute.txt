@@ -1,0 +1,11 @@
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\bin\Debug\MultipleContractServiceHost.exe.config
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\bin\Debug\MultipleContractServiceHost.exe
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\bin\Debug\MultipleContractServiceHost.pdb
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\bin\Debug\MultipleContractService.dll
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\bin\Debug\MultipleContractService.pdb
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\bin\Debug\MultipleContractService.dll.config
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\obj\Debug\MultipleContractServiceHost.csprojAssemblyReference.cache
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\obj\Debug\MultipleContractServiceHost.csproj.CoreCompileInputs.cache
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\obj\Debug\MultipleContractServiceHost.csproj.CopyComplete
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\obj\Debug\MultipleContractServiceHost.exe
+C:\Users\vsuyambu\source\repos\HelloService\MultipleContractServiceHost\obj\Debug\MultipleContractServiceHost.pdb
